@@ -34,4 +34,11 @@ but is weakly encrypted
 supported on many devices
 
 ## LAN Networking Devices
-* 
+* Routers connect networks and pass data between them
+* Routing is the process of data travelling across networks
+* Things that determine which path a router takes:
+  * Which path is shorter
+  * Which path is reliable
+  * Which path is faster (copper vs fiber)
+* Switch: networking device responsible for providing a means of connecting to multiple devices via Ethernet cables
+* Switches operate at Layer 2 and Layer 3 of the OSI model
