@@ -46,6 +46,8 @@
   * Content-Length: tells the web server how much data to expect in the web request
   * Accept-Encoding: tells the web server what types of compression methods the browser supports so the data can be made smaller for transmitting over the internet
 
+## Cookies
+* Set-cookie header: saves cookies to your computer
 
 
 
