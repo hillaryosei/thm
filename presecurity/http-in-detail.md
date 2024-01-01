@@ -16,6 +16,7 @@
 * A request can be made just by doing "GET / HTTP/1.1"
 
 ## HTTP Methods
+* HTTP methods are a way for the client to show their intended action when making an HTTP request
 * GET request is used for getting information from a web server
 * POST request is used for submitting data to the web server and create new records
 * PUT request is used for submitting data to a web server to update info
