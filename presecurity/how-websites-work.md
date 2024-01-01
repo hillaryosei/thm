@@ -42,8 +42,10 @@ Here's an example:
 * A web developer may forget to remove login credentials, hidden links to private parts of the website or other sensitive data shown in HTML or JavaScript
 * Sensitive information can be potentially leveraged to further an attacker's access within different parts of a web application
 
-
-
+## HTML Injection
+* HTML Injection is a vulnerability that occurs when unfiltered user input is displayed on the page
+* If a website fails to sanitize user input, filter any "malicious" text that a user inputs into a website, and that input is used on the page, an attacker can inject HTML code into a vulnerable website
+* Input sanitization is helpful in keeping a website secure, as information a user inputs into a website is often used in other frontend and backend functionality
 
 
 
